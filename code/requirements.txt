@@ -1,0 +1,8 @@
+requests
+PyPDF2
+pandas
+python-dotenv
+imaplib
+email
+os
+shutil
